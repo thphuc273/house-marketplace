@@ -1,7 +1,7 @@
 
 function Offers() {
   return (
-    <div>Offers</div>
+    <p>Offers</p>
   )
 }
 

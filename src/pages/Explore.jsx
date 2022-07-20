@@ -1,7 +1,7 @@
 
 function Explore() {
   return (
-    <div>Explore</div>
+    <p>Explore</p>
   )
 }
 
